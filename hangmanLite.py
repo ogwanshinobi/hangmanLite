@@ -37,7 +37,7 @@ def run ():
                 print (char)
         # If not, print dash
             else:
-                print ("_")
+                print ("-")
         #And increase fail counter by 1
                 failed += 1
 
